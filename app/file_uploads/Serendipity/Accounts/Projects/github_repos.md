@@ -1,0 +1,32 @@
+List of all the repos:
+
+- TradeManV1
+    - This is the main backend repo for TradeManV1 where are the main functionalities are implemented.
+    - The main branch is dev.
+    - The live version is running on Mac Mini.
+    - FastAPI, GoodMorning Scripts, OrderExecution, GoodEvening Scripts
+- TradeManV1React
+    - This is the main frontend repo for TradeManV1 where we have the react code.
+    - The main branch is dev.
+    - The live version is running on CloudFlare.
+- hakuna-matata
+    - This is the repo for the hakuna-matata project.
+    - Currently the live version is running on Prankster on port 8051.
+    - We deploy the fastapi server on the same.
+    - We can access the swagger docs at http://hakuna-matata.trademan.ai/docs
+- Kaas
+    - This is the repo frontend for the kaas project.
+    - Currently the live version is running on Prankster on port 8052.
+    - We deploy the react app on the same.
+    - We can access the live app at http://kaas.trademan.ai/
+- DhoomStudioWebsite
+    - This is the repo for the dhoom studio website.
+    - Currently the live version is running on Firebase.
+    - We deploy the react app on the same.
+    - We can access the live app at http://dhoomstudio.ai/
+- TileTango
+    - This is the repo for the tile tango project.
+- File_organization 
+- Meeting-Audio
+- AccountsTracker
+
